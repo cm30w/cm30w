@@ -3,9 +3,10 @@
 i build small things on the web.
 
 ## projects
-- **[dancetracker](https://github.com/cm30w/dancetracker)** — track dance moves from uploaded video (TypeScript)
-- **[habithero](https://github.com/cm30w/habithero)** — small habit checklist (TypeScript)
-- **[boid](https://github.com/cm30w/boid)** — classic boid algorithm in the browser (JavaScript)
+- **[dancetracker](https://github.com/cm30w/dancetracker)** — track dance moves from uploaded video
+- **[nimbus](https://github.com/Raymond1134/Nimbus)** — voice controlled drone
+- **[habithero](https://github.com/cm30w/habithero)** — small habit checklist
+- **[boid](https://github.com/cm30w/boid)** — classic boid algorithm in the browser
 
 ## stack
 JavaScript · TypeScript · Python · HTML
