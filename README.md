@@ -1,6 +1,6 @@
 ## hi, i'm claire 👋
 
-i build small things on the web — trackers, tools, and the occasional experiment.
+i build small things on the web.
 
 ## projects
 - **[dancetracker](https://github.com/cm30w/dancetracker)** — track dance moves from uploaded video (TypeScript)
@@ -9,3 +9,7 @@ i build small things on the web — trackers, tools, and the occasional experime
 
 ## stack
 JavaScript · TypeScript · Python · HTML
+
+## in progress
+- personal website
+- 2026 cs class profile
